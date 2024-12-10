@@ -1,0 +1,32 @@
+Requisite Location Report
+Summary report:
+FB1LIVE objects:
+    Objects with requisites in library FB1LIVE: 7
+    Objects with requisites in library FB1LIVE: 7
+    Objects with requisites in library FB1SRC: 13
+
+Detail report:
+FB1LIVE objects:
+    Objects with requisites in library FB1LIVE:
+        *FILE LF        FB1LIVE/CUSMSTL1                    
+        *FILE LF        FB1LIVE/CUSMSTL2                    
+        *FILE LF        FB1LIVE/CUSMSTL3                    
+        *FILE DSPF      FB1LIVE/MNTMENU                     
+        *FILE DSPF      FB1LIVE/SCHNAMD                     
+        *FILE DSPF      FB1LIVE/SCHZIPD                     
+        *PGM RPGLE      FB1LIVE/CUSTMAINT                   
+    Objects with requisites in library FB1SRC:
+        *CMD            FB1LIVE/CUSTMAINT                   
+        *FILE PF        FB1LIVE/CUSMST                      
+        *FILE LF        FB1LIVE/CUSMSTL1                    
+        *FILE LF        FB1LIVE/CUSMSTL2                    
+        *FILE LF        FB1LIVE/CUSMSTL3                    
+        *FILE DSPF      FB1LIVE/MAINMENU                    
+        *FILE DSPF      FB1LIVE/MNTMENU                     
+        *FILE DSPF      FB1LIVE/SCHNAMD                     
+        *FILE DSPF      FB1LIVE/SCHZIPD                     
+        *MODULE RPGLE   FB1LIVE/CUSMAIN                     
+        *MODULE RPGLE   FB1LIVE/CUSMNT                      
+        *MODULE RPGLE   FB1LIVE/SCHNAM                      
+        *MODULE RPGLE   FB1LIVE/SCHZIP                      
+End of Requisite Location Report.

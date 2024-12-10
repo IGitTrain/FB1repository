@@ -1,0 +1,23 @@
+Source Location Report
+Summary report:
+FB1LIVE objects:
+    Objects with source in library FB1SRC: 14
+
+Detail report:
+FB1LIVE objects:
+    Objects with source in library FB1SRC:
+        *MODULE RPGLE   FB1LIVE/CUSMAIN                     
+        *FILE DSPF      FB1LIVE/MAINMENU                    
+        *MODULE RPGLE   FB1LIVE/CUSMNT                      
+        *FILE LF        FB1LIVE/CUSMSTL1                    
+        *FILE PF        FB1LIVE/CUSMST                      
+        *FILE DSPF      FB1LIVE/MNTMENU                     
+        *MODULE RPGLE   FB1LIVE/SCHNAM                      
+        *FILE LF        FB1LIVE/CUSMSTL3                    
+        *FILE DSPF      FB1LIVE/SCHNAMD                     
+        *MODULE RPGLE   FB1LIVE/SCHZIP                      
+        *FILE LF        FB1LIVE/CUSMSTL2                    
+        *FILE DSPF      FB1LIVE/SCHZIPD                     
+        *PGM RPGLE      FB1LIVE/SCHNAMRPG                   
+        *CMD            FB1LIVE/CUSTMAINT                   
+End of Source Location Report.
